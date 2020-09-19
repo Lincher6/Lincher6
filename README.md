@@ -1,16 +1,26 @@
-### Hi there 👋
+![Preview](https://github.com/romadryud/romadryud/blob/master/assets/preview.png?raw=true)
 
-<!--
-**Lincher6/Lincher6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello world! I'm Raman - aka [Frontend Jedi](https://www.youtube.com/channel/UC3YV2l9Ymci0R98Vk_qUHOQ)
 
-Here are some ideas to get you started:
+## I'm a passionate Frontend Developer
+[![](https://img.shields.io/badge/-Raman%20Aktsisiuk-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/ramanaktsisiuk/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+- 3+ years experience in Frontend development
+- A fan of non-standard interfaces
+
+### Languages and Tools:
+
+
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+To be continued ....
+
+<img height="160em" align="left" alt="romadryud's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=romadryud&show_icons=true" />
+<img height="160em" align="right" alt="romadryud's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=romadryud&theme=vue&layout=compact" />

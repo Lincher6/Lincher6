@@ -1,4 +1,4 @@
-![Preview](https://github.com/romadryud/romadryud/blob/master/assets/preview.png?raw=true)
+![Preview](https://github.com/Lincher6/bite_social_client/blob/master/src/ui/assets/titleLogo.png?raw=true?raw=true)
 
 ### Hello world! I'm Raman - aka [Frontend Jedi](https://www.youtube.com/channel/UC3YV2l9Ymci0R98Vk_qUHOQ)
 

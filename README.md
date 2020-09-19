@@ -1,9 +1,7 @@
 ![Preview](https://github.com/Lincher6/bite_social_client/blob/master/src/ui/assets/titleLogo.png?raw=true?raw=true)
 
-### Hello world! I'm Raman - aka [Frontend Jedi](https://www.youtube.com/channel/UC3YV2l9Ymci0R98Vk_qUHOQ)
-
 ## I'm a passionate Frontend Developer
-[![](https://img.shields.io/badge/-Raman%20Aktsisiuk-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/ramanaktsisiuk/)
+[![](https://img.shields.io/badge/-Alexander%20Gul-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/alexgul/)
 
 ---
 - 3+ years experience in Frontend development

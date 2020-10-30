@@ -37,5 +37,4 @@
 
 ----
 
-<img height="160em"  align="middle" alt="alex's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Lincher6&show_icons=true" />
 <img height="160em"  align="middle" alt="alex's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lincher6&theme=vue&layout=compact" />
